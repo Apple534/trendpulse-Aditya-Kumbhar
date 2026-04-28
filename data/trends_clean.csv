@@ -1,0 +1,88 @@
+post_id,title,category,score,num_comments,author,collected_at
+47913650,"AI should elevate your thinking, not replace it",technology,451,330,koshyjohn,2026-04-27 13:36:49.608258
+47917026,The Prompt API,technology,89,61,gslin,2026-04-27 13:36:50.565066
+47903541,Three constraints before I build anything,technology,184,28,nervous_north,2026-04-27 13:36:51.485196
+47913855,Fast16: High-precision software sabotage 5 years before Stuxnet,technology,229,51,dd23,2026-04-27 13:36:53.375998
+47916909,EvanFlow – A TDD driven feedback loop for Claude Code,technology,59,25,evanklem2004,2026-04-27 13:37:10.269347
+47911524,An AI agent deleted our production database. The agent's confession is below,technology,638,795,jeremyccrane,2026-04-27 13:37:13.759082
+47911780,GoDaddy gave a domain to a stranger without any documentation,technology,594,231,jamesponddotco,2026-04-27 13:37:31.579594
+47901819,Music of the BBC Microcomputer System,technology,18,2,eightb,2026-04-27 13:37:33.899472
+47916410,Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft,technology,97,81,donsupreme,2026-04-27 13:37:35.099585
+47897140,Agentic AI systems violate the implicit assumptions of database design,technology,99,99,mooreds,2026-04-27 13:37:41.710773
+47918239,The cost math behind routing Claude Code through Ollama (~90% cut),technology,13,5,CoherenceDaddy,2026-04-27 13:37:46.452269
+47909945,QNX on the Commodore 900 – Raiders of the lost hard drive [video] (2025),technology,50,6,rbanffy,2026-04-27 13:37:50.037520
+47908833,Statecharts: hierarchical state machines,technology,297,80,sph,2026-04-27 13:37:55.920946
+47918009,AI can cost more than human workers now,technology,65,41,nreece,2026-04-27 13:37:58.269459
+47917664,US power demand to reach record highs in 2026–2027 driven by AI and data centers,technology,12,7,latentframe,2026-04-27 13:38:02.983828
+47914749,ELI: Explain Like I'm for any ArXiv Paper,technology,12,1,Falimonda,2026-04-27 13:38:05.321007
+47914075,"Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup",technology,14,1,rohan044,2026-04-27 13:38:06.509409
+47916519,The reporters at this news site are AI bots. OpenAI appears to be funding it,technology,29,1,Teever,2026-04-27 13:38:07.673010
+47902993,Hokusai and Tesselations,technology,140,16,srean,2026-04-27 13:38:12.377880
+47912513,"Plants can sense the sound of rain, a new study finds",technology,86,15,paulpauper,2026-04-27 13:38:24.291761
+47863570,"1-Bit Hokusai's ""The Great Wave"" (2023)",technology,605,91,stephen-hill,2026-04-27 13:38:27.865246
+47875597,Optimizing Datalog for the GPU,technology,73,3,tosh,2026-04-27 13:38:39.906441
+47907018,GnuPG – post-quantum crypto landing in mainline,technology,168,57,zdkaster,2026-04-27 13:38:41.061504
+47870901,OpenAI Privacy Filter,technology,291,63,tanelpoder,2026-04-27 13:38:45.761197
+47913406,"The 1944 Warsaw Uprising, in Color",worldnews,140,53,keiferski,2026-04-27 13:39:47.051140
+47914072,Principia Softwarica: Fundamental Literate System Programs,worldnews,16,1,pratikdeoghare,2026-04-27 13:40:15.303620
+47916555,Software engineering may no longer be a lifetime career,worldnews,8,1,milkglass,2026-04-27 13:41:38.532441
+47876043,Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign,worldnews,864,422,tosh,2026-04-27 13:41:51.452144
+47907543,AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice,worldnews,93,23,pabs3,2026-04-27 13:42:05.576061
+47906085,"Show HN: DDoS detection in 0.9s, tested against a 48 Gbps attack live",worldnews,15,3,jacob_masse,2026-04-27 13:43:30.814754
+47915719,A New Idea to Save the Climate? Dam the Bering Strait.,worldnews,5,4,bookofjoe,2026-04-27 13:43:45.531958
+47877366,French government agency confirms breach as hacker offers to sell data,worldnews,407,147,robtherobber,2026-04-27 13:43:57.251569
+47911345,We Traced U.S. Government Gold to a Drug Cartel,worldnews,9,0,georgecmu,2026-04-27 13:44:03.133405
+47897477,Is Italy the new tax haven for the global rich?,worldnews,23,13,andsoitis,2026-04-27 13:44:14.890961
+47916104,Former MIT president says the US is losing the innovation race to China,worldnews,10,1,Brajeshwar,2026-04-27 13:44:36.084908
+47851634,The Vercel breach: OAuth attack exposes risk in platform environment variables,worldnews,369,117,queenelvis,2026-04-27 13:45:11.586294
+47905837,"Agents Aren't Coworkers, Embed Them in Your Software",worldnews,48,21,gz09,2026-04-27 13:45:28.658488
+47891019,Norway set to become latest country to ban social media for under 16s,worldnews,415,479,1vuio0pswjnm7,2026-04-27 13:45:52.367746
+47892765,Tesla discloses $2B AI hardware company acquisition in filing,worldnews,76,47,Bender,2026-04-27 13:46:28.555639
+47910977,Trump's Canada trade war hits Jack Daniel's/Jim Beam with devastating $143M loss,worldnews,16,3,dj_rock,2026-04-27 13:47:13.292756
+47890302,Affirm Retooled for Agentic Software Development in One Week,worldnews,32,24,brd529,2026-04-27 13:47:21.478432
+47857509,"Global growth in solar ""the largest ever observed for any source""",worldnews,107,41,tambourine_man,2026-04-27 13:47:42.979618
+47900499,KDE Plasma adds support for hardware overlay planes on Intel GPUs,worldnews,8,0,bundie,2026-04-27 13:48:41.888713
+47910877,Lessons from building multiplayer browsers,sports,28,11,alejandrohacks,2026-04-27 13:49:33.385760
+47876071,Show HN: Turning a Gaussian Splat into a videogame,sports,213,52,yak32,2026-04-27 13:49:38.104112
+47914369,"Show HN: Tiao, A two-player turn-based board game",sports,44,19,trebeljahr,2026-04-27 13:49:46.495459
+47915274,Show HN: Startup Equity Adventure Game,sports,26,10,iliabara,2026-04-27 13:49:50.251058
+47877277,I spent 6 years building my Kanban as I hated how managers run the boards,sports,81,94,okovooo,2026-04-27 13:50:04.360996
+47900398,Martin Galway's music source files from 1980's Commodore 64 games,sports,193,29,ingve,2026-04-27 13:51:03.597194
+47915230,High energy sports drinks boost performance even if you spit them out,sports,10,2,bwoah,2026-04-27 13:53:33.730620
+47878117,MeshCore development team splits over trademark dispute and AI-generated code,sports,281,177,wielebny,2026-04-27 13:53:44.386528
+47871195,Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game,sports,111,41,mwenge,2026-04-27 13:54:46.818177
+47870108,Bring Your Agent to Teams,sports,79,84,umangsehgal93,2026-04-27 13:55:13.388249
+47864785,Ping-pong robot beats top-level human players,sports,190,264,wslh,2026-04-27 13:55:38.516583
+47873966,Show HN: Built a daily game where you sort historical events chronologically,sports,72,67,damiannn,2026-04-27 13:55:57.798379
+47904053,Adding a team was the wrong strategic decision,sports,5,0,milkglass,2026-04-27 13:56:14.304548
+47866153,Homegrown – An interactive map of every 2025 FBS college football player,sports,20,11,brockbedard,2026-04-27 13:58:17.856028
+47874507,SteamOS now runs on every AMD handheld,sports,49,1,SockThief,2026-04-27 13:58:21.492452
+47900820,The Military Rockets That Launched the Space Age (2023),science,8,0,radeeyate,2026-04-27 13:59:38.096596
+47866860,Workspace Agents in ChatGPT,science,161,63,mfiguiere,2026-04-27 14:04:28.052454
+47914321,"At SpaceX, AI is burning the cash that Starlink earns",science,19,0,JumpCrisscross,2026-04-27 14:04:30.413327
+47868063,New study compares growing corn for energy to solar production,science,120,181,dotcoma,2026-04-27 14:04:49.308732
+47915879,Why cars charge 5x faster in China when the research is shared?,science,11,2,cyrusradfar,2026-04-27 14:05:57.621318
+47855293,SpaceX says it has agreement to acquire Cursor for $60B,science,820,983,dmarcos,2026-04-27 14:07:04.297776
+47893767,Kubernetes v1.36: User Namespaces in Kubernetes are finally GA,science,12,0,soheilpro,2026-04-27 14:07:42.348098
+47911009,China surpasses U.S. in research spending,science,9,0,Bondi_Blue,2026-04-27 14:07:56.702566
+47885327,Study shows removing exposure to plastic from our food chain yields quick result,science,35,0,xbmcuser,2026-04-27 14:08:07.561505
+47867085,OpenAI: Workspace Agents for Business,science,51,11,tosh,2026-04-27 14:08:26.600872
+47858246,"FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",science,232,164,ineedasername,2026-04-27 14:08:52.460270
+47891147,Researchers Simulated a Delusional User to Test Chatbot Safety,science,20,4,Brajeshwar,2026-04-27 14:09:04.211061
+47915632,FreeBSD Device Drivers Book,entertainment,83,14,myth_drannon,2026-04-27 14:09:49.330115
+47911013,Show HN: Free textbook on engineering thermodynamics,entertainment,139,36,2DcAf,2026-04-27 14:10:07.009341
+47916769,"Show HN: The Unix Magic poster, annotated (updated)",entertainment,34,1,drio,2026-04-27 14:10:10.545187
+47914814,"Show HN: Matrirc – run irssi in 2026, talk to people on Matrix",entertainment,9,0,pawelb0,2026-04-27 14:11:37.819044
+47913349,Show HN: Auge Vision from Your Terminal,entertainment,21,3,franze,2026-04-27 14:11:38.998949
+47908912,Show HN: A free ESG stock screener that publishes its losses and methodology,entertainment,27,25,irldexter,2026-04-27 14:11:50.751396
+47909295,Show HN: I remade my blog into a Windows 3.1 environment,entertainment,23,18,theletterf,2026-04-27 14:11:59.006681
+47872306,MacBook Neo and how the iPad should be,entertainment,317,200,jen729w,2026-04-27 14:12:37.873427
+47903690,"Show HN: Kloak, A secret manager that keeps K8s workload away from secrets",entertainment,61,52,neo2006,2026-04-27 14:12:45.495518
+47895765,Google Flow Music,entertainment,147,148,hmokiguess,2026-04-27 14:12:56.120462
+47896163,Show HN: I've built a nice home server OS,entertainment,186,77,Zta77,2026-04-27 14:12:58.483572
+47899844,Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git),entertainment,254,112,najmuzzaman,2026-04-27 14:13:04.725545
+47874647,Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite,entertainment,310,80,russellthehippo,2026-04-27 14:13:07.172927
+47890841,Show HN: Browser Harness – Gives LLM freedom to complete any browser task,entertainment,129,61,gregpr07,2026-04-27 14:13:09.519311
+47907388,Show HN: Browse GitHub repos in Emacs without cloning,entertainment,22,11,iLemming,2026-04-27 14:13:27.567435
+47886272,Show HN: Gova – The declarative GUI framework for Go,entertainment,140,28,aliezsid,2026-04-27 14:13:28.736953
+47865822,Show HN: Agent Vault – Open-source credential proxy and vault for agents,entertainment,155,55,dangtony98,2026-04-27 14:14:09.410926
